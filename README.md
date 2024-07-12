@@ -2,7 +2,7 @@
 
 <!--
 
-I am a Software Engineer, proficient in JavaScript, React, Node.js, Express, TypeScript, Python, Java and various CMS platforms
+🥰 I am a Software Engineer, proficient in JavaScript, React, Node.js, Express, TypeScript, Python, Java and various CMS platforms
 
 😄 Pronouns: She/Her
 
