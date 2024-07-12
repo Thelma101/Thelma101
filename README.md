@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 🥰 I am a Software Engineer, proficient in JavaScript, React, Node.js, Express, TypeScript, Python, Java and various CMS platforms
 
@@ -19,6 +18,3 @@
 📄 Know about my experiences at https://teeportfolio.onrender.com
 
 ⚡ Fun fact: In my spare time, I play the jazz drum and watch movies (suspense and mystery) 🌱
-
--->
-
