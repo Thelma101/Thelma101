@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thelma101&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thelma101)](https://git.io/streak-stats)
 
@@ -6,9 +6,9 @@
 
 ![Custom Badge](https://img.shields.io/badge/Custom-Badge-blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thelma101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Thelma101&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thelma101&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
