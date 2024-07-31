@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile
 
-** [![trophy](https://github-profile-trophy.vercel.app/?username=Thelma101&theme=dracula&no-frame=true&title=Followers,Stars,Commits)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thelma101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thelma101)](https://git.io/streak-stats)
