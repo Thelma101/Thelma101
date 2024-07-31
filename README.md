@@ -1,8 +1,6 @@
-!Top Languages
-!GitHub Streak
-!Profile Views
-!Custom Badge
-!Activity Graph
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api)]()
+
 ![Thelma GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelma101&show_icons=true&hide_border=true%29)
 
 
