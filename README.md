@@ -1,4 +1,5 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-Thelma101)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thelma101)](https://git.io/streak-stats)
+
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=Thelma101&show_icons=true&hide_border=true%29)
 
