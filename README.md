@@ -3,7 +3,9 @@
 ![Custom Badge](https://img.shields.io/badge/Custom-Badge-blue)
 
 ![Thelma GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelma101&show_icons=true&hide_border=true%29)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thelma101&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Thelma101&color=blue)
 
 
