@@ -1,5 +1,5 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thelma101&show_icons=true&hide_border=true%29)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=Thelma101&show_icons=true&hide_border=true%29)
 
 ![Thelma GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelma101&show_icons=true&hide_border=true%29)
 
