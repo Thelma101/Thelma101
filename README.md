@@ -1,19 +1,19 @@
 # Welcome to My GitHub Profile
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thelma101&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thelma101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thelma101)](https://git.io/streak-stats)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thelma101&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats
 ![Thelma GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelma101&show_icons=true&hide_border=true)
 
 ## Custom Badge
 ![Custom Badge](https://img.shields.io/badge/Custom-Badge-blue)
-
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thelma101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Activity Graph
 [![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Thelma101&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
