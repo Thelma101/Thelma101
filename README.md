@@ -8,13 +8,13 @@
 
 ![Thelma GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelma101&show_icons=true&hide_border=true)
 
-![Custom Badge](https://img.shields.io/badge/Custom-Badge-pink)
+![Custom Badge](https://img.shields.io/badge/My_Custom_Badge-123456?style=for-the-badge&logo=appveyor)
 
 [![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Thelma101&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Thelma101&color=blue)
 
-## --------------------------------------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------
 
 
 ## Hi there 👋
