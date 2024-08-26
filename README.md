@@ -20,7 +20,7 @@
 ## Hi there 👋
 
 
-🥰 I am a Software Engineer, proficient in JavaScript, Node.js, Express, Nest, React, TypeScript, Python, Java, Docker, Postgres, MongoDB, MySql, and various CMS platforms
+🥰 I am a Software Engineer, proficient in JavaScript, Node.js, Express, Nest, React, TypeScript, Java, Docker, Postgres, MongoDB, MySql, and various CMS platforms like WordPress, Wix and Shopify.
 
 😄 Pronouns: She/Her
 
