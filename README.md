@@ -34,6 +34,6 @@
 
 📫 How to reach me akpata.thelma@gmail.com
 
-📄 Know about my experiences at https://teeportfolio.onrender.com
+📄 Know about my experiences at (https://tee-portfolio-fy6ub7329-thelma101s-projects.vercel.app/)
 
 ⚡ Fun fact: In my spare time, I play the jazz drum and watch movies (suspense and mystery) 🌱
